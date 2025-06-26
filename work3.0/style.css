@@ -1,0 +1,31 @@
+p {
+  color: #da8404;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  line-height: 1.6;
+  background-color: rgb(110, 29, 185);
+  }
+#a{
+    background-color: #024870
+}
+#ns{
+    background-color: rgb(51, 150, 153);
+}
+#s{
+    background-color: rgb(63, 29, 185);
+}
+#n{
+    background-color: rgb(rgb(0, 195, 255),);
+}
+#e{
+    background-color: rgb(70, 49, 90);
+}
+#d{
+    background-color: rgb(46, 39, 150);
+}
+body{
+    background-color: rgb(88, 98, 194);
+}
